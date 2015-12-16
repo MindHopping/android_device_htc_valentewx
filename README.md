@@ -1,6 +1,6 @@
 HTC J (ValenteWX)
 =================
 
-CyanogenMod device tree for the HTC J (ValenteWX) - CM11.0 Branch
+CyanogenMod device tree for the HTC J (ValenteWX) - CM12.1 Branch
 
-© 2014 - The CyanogenMod Project
+© 2015 - The CyanogenMod Project
